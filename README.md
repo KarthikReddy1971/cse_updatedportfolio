@@ -36,8 +36,23 @@ This project is built using a modern, fast, and responsive frontend stack:
 ---
 
 ## 🌍 Live Demo
+   Screenshots:
+Dashboard:
+<img width="959" height="412" alt="image" src="https://github.com/user-attachments/assets/95424c91-4c4a-48a8-8726-6745c5aef5b1" />
+About:
+<img width="959" height="407" alt="image" src="https://github.com/user-attachments/assets/ef3d63c3-84f5-4fee-bce0-38d9fd72fe44" />
+Projects:
+<img width="901" height="409" alt="image" src="https://github.com/user-attachments/assets/d0da3ea7-e676-4198-b33b-28c19cba5ff4" />
+Skills:
+<img width="582" height="402" alt="image" src="https://github.com/user-attachments/assets/36fe34ac-1bb6-40d4-9fb6-eb3c423e50ef" />
 
-👉 **[Coming Soon]** <!-- Replace this line with your link once deployed, e.g., https://github.io -->
+<img width="924" height="407" alt="image" src="https://github.com/user-attachments/assets/e220388e-2bc6-4e87-af9c-913a6871787f" />
+contact :
+<img width="697" height="412" alt="image" src="https://github.com/user-attachments/assets/af476e19-41e0-4d33-86b9-ade5d9fb795a" />
+
+
+   
+👉 **[https://karthikkportofolio.netlify.app/]** <!-- Replace this line with your link once deployed, e.g., https://github.io -->
 
 ---
 
